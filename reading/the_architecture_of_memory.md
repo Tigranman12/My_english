@@ -1,0 +1,21 @@
+# The Architecture of Memory
+
+---
+
+In 1953, a young man in Hartford, Connecticut, underwent a surgery that was meant to stop his severe epileptic seizures. The surgeon removed a small, seahorse-shaped structure from both sides of his brain called the hippocampus. The seizures stopped. But when the man woke up, something profound had changed. He could remember everything from his life before the operation with perfect clarity. He could hold a conversation. He could learn new motor skills. But he could no longer form a single new memory. Every person he met, every meal he ate, every morning he woke up — it was all gone within minutes, as if it had never happened. He lived in an eternal present, sealed off from any future he could keep.
+
+His name was Henry Molaison, and for decades scientists referred to him only as H.M. to protect his privacy. He became the most studied individual in the history of neuroscience. Through him, researchers discovered that memory is not a single thing stored in a single place. It is a collection of different systems, each handled by different regions of the brain, each serving a different purpose. The hippocampus, it turned out, is essential for converting short-term experiences into long-term memories. Without it, the present moment cannot be written into the past.
+
+This discovery changed everything scientists thought they knew about how we remember. Before H.M., many believed memory worked like a filing cabinet — experiences went in, stayed in, and could be retrieved intact. After H.M., it became clear that memory is far more like a construction site. Every time we remember something, we are not playing back a recording. We are rebuilding the memory from fragments, filling in gaps with logic, expectation, and emotion. We are, in a very real sense, rewriting the past every time we visit it.
+
+This is why eyewitness testimony in criminal trials is far less reliable than it feels. A person can be completely certain of what they saw and still be completely wrong. The brain is not trying to deceive — it is doing exactly what it was designed to do. It is telling the most coherent story it can from the available pieces. Memory evolved not for accuracy but for survival. What mattered was not a perfect record of the past, but a useful prediction for the future.
+
+The ancient Greeks had a different relationship with memory. Before writing was widespread, memory was a skill — perhaps the most important skill a person could have. Orators, philosophers, and poets trained for years to memorize vast amounts of knowledge. They used a technique called the method of loci, which involved imagining a familiar building and placing each piece of information in a specific room. To recall the information, they would mentally walk through the building and find it waiting in its place. Modern neuroscience has confirmed that this method works precisely because it recruits the brain's spatial navigation systems — the same systems the hippocampus manages.
+
+What is remarkable is that the ancient Greeks understood something about the brain's structure without ever studying it directly. They knew, through observation and practice, that memory is bound to space, to emotion, to story. Abstract lists are hard to remember. But a journey through a vivid imagined landscape, filled with strange and striking images, stays with a person for years. The architecture of memory, it turns out, is quite literally architectural.
+
+Henry Molaison lived until 2008, reaching the age of eighty-two. Every day of the last fifty-five years of his life was, to him, the day after his surgery. He never aged in his own mind. He never fully understood why strangers kept calling him old. He spent his life helping scientists understand the very thing he had lost, not because he chose to, but simply because he kept showing up — cooperative, cheerful, and curious, meeting each researcher as if for the first time, every time. In the end, the man who could not remember became one of the most unforgettable figures in the history of science.
+
+---
+
+> **Reading tip:** Read the text once for general understanding. Then read again and underline any words you don't know. Look them up and read one more time.
